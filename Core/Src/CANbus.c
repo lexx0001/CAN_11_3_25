@@ -11,7 +11,7 @@
  * @return HAL_StatusTypeDef (HAL_OK при успешной отправке, иначе ошибка)
  */
 
- HAL_StatusTypeDef CAN_SendMessage(CAN_HandleTypeDef *hcan, uint16_t stdId, uint8_t *data, uint8_t length) {
+ HAL_StatusTypeDef CAN_SendMessage(CAN_HandleTypeDef *hcan, uint16_t Id, uint8_t *data, uint8_t length) {
     CAN_TxHeaderTypeDef TxHeader;
     uint32_t TxMailbox;
 
@@ -20,10 +20,10 @@
     }
 
     // Заполняем структуру заголовка CAN-сообщения
-    TxHeader.StdId = stdId;
-    TxHeader.ExtId = 0;
+    TxHeader.StdId = 0;
+    TxHeader.ExtId = Id;
     TxHeader.RTR = CAN_RTR_DATA;
-    TxHeader.IDE = CAN_ID_STD;
+    TxHeader.IDE = CAN_ID_EXT;
     TxHeader.DLC = length;
     TxHeader.TransmitGlobalTime = DISABLE;
 

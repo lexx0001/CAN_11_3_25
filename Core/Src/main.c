@@ -78,7 +78,7 @@ void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan)
       // что нибудь делаем когда пришло сообщение
       if(RxHeader.StdId != 0x0378)
       {
-        UART_printf(&uartController, "ID %04lX DLC %d Data: ", RxHeader.StdId, RxHeader.DLC);
+        UART_printf(&uartController, "ID %08lX DLC %d Data: ", RxHeader.ExtId, RxHeader.DLC);
         for (uint8_t i = 0; i < RxHeader.DLC; i++)
         {
           UART_printf(&uartController, "%d ", RxData[i]);
@@ -133,17 +133,6 @@ int main(void)
 
   UART_printf(&uartController, "Hello!\r\n");
 
-  // заполняем структуру отвечающую за отправку кадров
-  TxHeader.StdId = 0x0378;
-  TxHeader.ExtId = 0;
-  TxHeader.RTR = CAN_RTR_DATA; //CAN_RTR_REMOTE
-  TxHeader.IDE = CAN_ID_STD;   // CAN_ID_EXT
-  TxHeader.DLC = 8;
-  TxHeader.TransmitGlobalTime = 0;
-  for(uint8_t i = 0; i < 8; i++)
-  {
-      TxData[i] = (i + 10);
-  }
 
   CAN_Filter_Config(); // Настраиваем фильтр CAN
   HAL_CAN_Start(&hcan);  // Запускаем контроллер CAN
@@ -244,8 +233,8 @@ static void MX_CAN_Init(void)
   /* USER CODE END CAN_Init 1 */
   hcan.Instance = CAN1;
   hcan.Init.Prescaler = 4;
-  hcan.Init.Mode = CAN_MODE_NORMAL; // для работы
-  // hcan.Init.Mode = CAN_MODE_SILENT_LOOPBACK; // для отладки без отправки в шину
+  // hcan.Init.Mode = CAN_MODE_NORMAL; // для работы
+  hcan.Init.Mode = CAN_MODE_SILENT_LOOPBACK; // для отладки без отправки в шину
   // hcan.Init.Mode = CAN_MODE_LOOPBACK; // для отладки с отправкой в шину (без приёма)
   // hcan.Init.Mode = CAN_MODE_SILENT; // приём без отправки
   hcan.Init.SyncJumpWidth = CAN_SJW_1TQ;
@@ -328,10 +317,10 @@ void CAN_Filter_Config()
     sFilterConfig.FilterBank = 0;                           // Номер банка фильтров
     sFilterConfig.FilterMode = CAN_FILTERMODE_IDMASK;       // Фильтр по маске
     sFilterConfig.FilterScale = CAN_FILTERSCALE_32BIT;      // 32-битный фильтр
-    sFilterConfig.FilterIdHigh = 0x0000;                    // ID фильтра (старшая часть)
-    sFilterConfig.FilterIdLow = 0x0000;                     // ID фильтра (младшая часть)
-    sFilterConfig.FilterMaskIdHigh = 0x0000;                // Маска фильтра (старшая часть)
-    sFilterConfig.FilterMaskIdLow = 0x0000;                 // Маска фильтра (младшая часть)
+    sFilterConfig.FilterIdHigh    = 0x0000;
+    sFilterConfig.FilterIdLow     = 0x0004;
+    sFilterConfig.FilterMaskIdHigh = 0x0000;
+    sFilterConfig.FilterMaskIdLow  = 0x0004;
     sFilterConfig.FilterFIFOAssignment = CAN_FilterFIFO0;   // Используем FIFO0
     sFilterConfig.FilterActivation = ENABLE;                // Включаем фильтр
 
