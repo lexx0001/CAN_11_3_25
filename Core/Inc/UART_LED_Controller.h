@@ -7,7 +7,7 @@
 
 // Размер общего буфера для форматирования
 #define UART_BUFFER_SIZE 128
-#define UART_TIMEOUT 100  // Таймаут для передачи UART (мс)
+#define UART_TIMEOUT 50  // Таймаут для передачи UART (мс)
 
 // Структура для хранения конфигурации
 typedef struct {

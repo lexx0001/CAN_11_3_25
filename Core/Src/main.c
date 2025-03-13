@@ -23,6 +23,8 @@
 /* USER CODE BEGIN Includes */
 
 #include "UART_LED_Controller.h"
+#include "CANbus.h"
+#include <string.h>
 
 /* USER CODE END Includes */
 
@@ -73,15 +75,16 @@ void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan)
 {
     if(HAL_CAN_GetRxMessage(hcan, CAN_RX_FIFO0, &RxHeader, RxData) == HAL_OK)
     {
-        // что нибудь делаем когда пришло сообщение
-        if(RxHeader.StdId != 0x0378)
+      // что нибудь делаем когда пришло сообщение
+      if(RxHeader.StdId != 0x0378)
+      {
+        UART_printf(&uartController, "ID %04lX DLC %d Data: ", RxHeader.StdId, RxHeader.DLC);
+        for (uint8_t i = 0; i < RxHeader.DLC; i++)
         {
-          UART_printf(&uartController, "ID %04lX %d %d %d\r\n", RxHeader.StdId, RxData[0], RxData[1], RxData[2]);
+          UART_printf(&uartController, "%d ", RxData[i]);
         }
-        else if(RxHeader.StdId != 0x0126)
-        {
-          UART_printf(&uartController, "ID %04lX %d %d %d\r\n", RxHeader.StdId, RxData[0], RxData[1], RxData[2]);
-        }
+        UART_printf(&uartController, "\r\n");
+      }
     }
 }
 
@@ -154,27 +157,26 @@ int main(void)
   {
 
     // отправляем сообщение по CAN
-    TxHeader.StdId = 0x0000;
-    TxData[0] = 22;
+    uint32_t id = 0x0005;
+    uint8_t myData[8] = {01, 02, 03, 13};
 
-    while(HAL_CAN_GetTxMailboxesFreeLevel(&hcan) == 0);
-
-    if(HAL_CAN_AddTxMessage(&hcan, &TxHeader, TxData, &TxMailbox) != HAL_OK)
-    {
-      UART_printf(&uartController, "Err SEND\r\n");
+    if (CAN_SendMessage(&hcan, id, myData, 4) == HAL_OK) {
+      // Сообщение отправлено успешно
+    } else {
+        UART_printf(&uartController, "Error sending CAN message\r\n");
     }
-
     HAL_Delay(1500);
 
+    // отправляем сообщение по CAN
+    id = 0x0001;
+    uint8_t newData[8] = {00, 10, 06, 11, 12, 13, 14}; // Объявляем массив newData
 
-    TxHeader.StdId = 0x0001;
-    TxData[0] = 77;
+    memcpy(myData, newData, sizeof(newData)); // Копируем значения из newData в myData
 
-    while(HAL_CAN_GetTxMailboxesFreeLevel(&hcan) == 0);
-
-    if(HAL_CAN_AddTxMessage(&hcan, &TxHeader, TxData, &TxMailbox) != HAL_OK)
-    {
-      UART_printf(&uartController, "Err SEND\r\n");
+    if (CAN_SendMessage(&hcan, id, myData, 7) == HAL_OK) {
+      // Сообщение отправлено успешно
+    } else {
+        UART_printf(&uartController, "Error sending CAN message\r\n");
     }
 
     HAL_Delay(1500);
@@ -242,7 +244,10 @@ static void MX_CAN_Init(void)
   /* USER CODE END CAN_Init 1 */
   hcan.Instance = CAN1;
   hcan.Init.Prescaler = 4;
-  hcan.Init.Mode = CAN_MODE_SILENT_LOOPBACK;
+  hcan.Init.Mode = CAN_MODE_NORMAL; // для работы
+  // hcan.Init.Mode = CAN_MODE_SILENT_LOOPBACK; // для отладки без отправки в шину
+  // hcan.Init.Mode = CAN_MODE_LOOPBACK; // для отладки с отправкой в шину (без приёма)
+  // hcan.Init.Mode = CAN_MODE_SILENT; // приём без отправки
   hcan.Init.SyncJumpWidth = CAN_SJW_1TQ;
   hcan.Init.TimeSeg1 = CAN_BS1_13TQ;
   hcan.Init.TimeSeg2 = CAN_BS2_2TQ;
@@ -320,61 +325,21 @@ void CAN_Filter_Config()
 {
     CAN_FilterTypeDef sFilterConfig;
 
-    sFilterConfig.FilterBank = 0;                        // Номер банка фильтра
-    sFilterConfig.FilterMode = CAN_FILTERMODE_IDMASK;    // Фильтр по маске
-    sFilterConfig.FilterScale = CAN_FILTERSCALE_32BIT;   // 32-битный фильтр
-    sFilterConfig.FilterIdHigh = 0x0000;                 // ID фильтра (старшая часть)
-    sFilterConfig.FilterIdLow = 0x0000;                  // ID фильтра (младшая часть)
-    sFilterConfig.FilterMaskIdHigh = 0x0000;             // Маска фильтра (старшая часть)
-    sFilterConfig.FilterMaskIdLow = 0x0000;              // Маска фильтра (младшая часть)
+    sFilterConfig.FilterBank = 0;                           // Номер банка фильтров
+    sFilterConfig.FilterMode = CAN_FILTERMODE_IDMASK;       // Фильтр по маске
+    sFilterConfig.FilterScale = CAN_FILTERSCALE_32BIT;      // 32-битный фильтр
+    sFilterConfig.FilterIdHigh = 0x0000;                    // ID фильтра (старшая часть)
+    sFilterConfig.FilterIdLow = 0x0000;                     // ID фильтра (младшая часть)
+    sFilterConfig.FilterMaskIdHigh = 0x0000;                // Маска фильтра (старшая часть)
+    sFilterConfig.FilterMaskIdLow = 0x0000;                 // Маска фильтра (младшая часть)
     sFilterConfig.FilterFIFOAssignment = CAN_FilterFIFO0;   // Используем FIFO0
-    sFilterConfig.FilterActivation = ENABLE;             // Включаем фильтр
+    sFilterConfig.FilterActivation = ENABLE;                // Включаем фильтр
 
     if (HAL_CAN_ConfigFilter(&hcan, &sFilterConfig) != HAL_OK)
     {
         Error_Handler();  // Обработчик ошибки
     }
 }
-
-// void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan)
-// {
-//     CAN_RxHeaderTypeDef RxHeader;
-//     uint8_t RxData[8];
-
-//     if (HAL_CAN_GetRxMessage(hcan, CAN_RX_FIFO0, &RxHeader, RxData) == HAL_OK)
-//     {
-//         if (RxHeader.IDE == CAN_ID_STD)  // Стандартный идентификатор
-//         {
-//             if (RxHeader.StdId == CAN_CMD_Test_Send)  // Проверяем команду
-//             {
-//                 CAN_Send_Ok();
-//             }
-//             else if (RxHeader.StdId == CAN_CMD_Test_Ok)
-//             {
-//                 // Можно добавить код обработки, например, мигание светодиодом
-//             }
-//         }
-//     }
-// }
-
-// void CAN_Send_Test(void)
-// {
-//     CAN_TxHeaderTypeDef TxHeader;
-//     uint8_t TxData[3] = {0x00, 0x01, 0x02};
-//     uint32_t TxMailbox;
-
-//     TxHeader.StdId = 0x00;
-//     TxHeader.ExtId = 0x00;     // Не используем расширенный ID
-//     TxHeader.IDE = CAN_ID_STD;
-//     TxHeader.RTR = CAN_RTR_DATA;
-//     TxHeader.DLC = 3;          // Длина блока данных 3 байта
-//     TxHeader.TransmitGlobalTime = DISABLE;
-
-//     if (HAL_CAN_AddTxMessage(&hcan, &TxHeader, TxData, &TxMailbox) != HAL_OK)
-//     {
-//         Error_Handler();
-//     }
-// }
 
 
 /* USER CODE END 4 */

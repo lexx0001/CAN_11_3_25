@@ -7,6 +7,12 @@
 },
 {
   "directory": "C:/STM32/STM32_Projects/CAN_11_3_25/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IC:/STM32/STM32_Projects/CAN_11_3_25/Core/Inc -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Core/Inc -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\CAN_11_3_25.dir\\Core\\Src\\CANbus.c.obj -c C:\\STM32\\STM32_Projects\\CAN_11_3_25\\Core\\Src\\CANbus.c",
+  "file": "C:\\STM32\\STM32_Projects\\CAN_11_3_25\\Core\\Src\\CANbus.c",
+  "output": "CMakeFiles\\CAN_11_3_25.dir\\Core\\Src\\CANbus.c.obj"
+},
+{
+  "directory": "C:/STM32/STM32_Projects/CAN_11_3_25/build/Debug",
   "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IC:/STM32/STM32_Projects/CAN_11_3_25/Core/Inc -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Core/Inc -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/STM32/STM32_Projects/CAN_11_3_25/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\CAN_11_3_25.dir\\Core\\Src\\main.c.obj -c C:\\STM32\\STM32_Projects\\CAN_11_3_25\\Core\\Src\\main.c",
   "file": "C:\\STM32\\STM32_Projects\\CAN_11_3_25\\Core\\Src\\main.c",
   "output": "CMakeFiles\\CAN_11_3_25.dir\\Core\\Src\\main.c.obj"

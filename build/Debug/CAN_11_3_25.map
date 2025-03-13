@@ -294,6 +294,95 @@ Discarded input sections
  .rodata        0x00000000        0x5 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .text.UART_LED_Controller_SendNumber
                 0x00000000       0x30 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0xaa8 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x21b CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0xbd CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0xd23 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000     0xe09e CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000     0x34a2 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x5c CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x5bc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x289 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x1cb CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x114 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x1b2 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x27 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x136 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x1bc CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x408 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x87 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x240 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x140 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000      0x28e CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00000000       0x83 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
@@ -335,6 +424,8 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .bss.TxMailbox
+                0x00000000        0x4 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000      0xaa8 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000      0x21b CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
@@ -373,6 +464,19 @@ Discarded input sections
  .debug_macro   0x00000000       0x83 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x74 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x24 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
  .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
  .group         0x00000000        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
@@ -2335,6 +2439,7 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 END GROUP
 LOAD CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
+LOAD CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
 LOAD CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
 LOAD CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
@@ -2377,7 +2482,7 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
                 0x08000000                g_pfnVectors
                 0x0800010c                        . = ALIGN (0x4)
 
-.text           0x0800010c     0x30f0
+.text           0x0800010c     0x3160
                 0x0800010c                        . = ALIGN (0x4)
  *(.text)
  .text          0x0800010c       0x40 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
@@ -2419,381 +2524,382 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .text.UART_printf
                 0x08000408       0x3a CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
                 0x08000408                UART_printf
- *fill*         0x08000442        0x2 
+ .text.CAN_SendMessage
+                0x08000442       0x6a CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+                0x08000442                CAN_SendMessage
  .text.HAL_CAN_RxFifo0MsgPendingCallback
-                0x08000444       0x8c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x08000444                HAL_CAN_RxFifo0MsgPendingCallback
+                0x080004ac       0x84 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x080004ac                HAL_CAN_RxFifo0MsgPendingCallback
  .text.HAL_CAN_ErrorCallback
-                0x080004d0       0x2c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x080004d0                HAL_CAN_ErrorCallback
- .text.main     0x080004fc      0x11c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x080004fc                main
+                0x08000530       0x2c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x08000530                HAL_CAN_ErrorCallback
+ .text.main     0x0800055c      0x130 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x0800055c                main
  .text.SystemClock_Config
-                0x08000618       0x8a CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x08000618                SystemClock_Config
- *fill*         0x080006a2        0x2 
+                0x0800068c       0x8a CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x0800068c                SystemClock_Config
+ *fill*         0x08000716        0x2 
  .text.MX_CAN_Init
-                0x080006a4       0x70 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x08000718       0x6c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .text.MX_USART1_UART_Init
-                0x08000714       0x54 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x08000784       0x54 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .text.MX_GPIO_Init
-                0x08000768       0x5c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x080007d8       0x5c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .text.CAN_Filter_Config
-                0x080007c4       0x4c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x080007c4                CAN_Filter_Config
+                0x08000834       0x4c CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x08000834                CAN_Filter_Config
  .text.Error_Handler
-                0x08000810        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x08000810                Error_Handler
+                0x08000880        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x08000880                Error_Handler
  .text.NMI_Handler
-                0x0800081c        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800081c                NMI_Handler
+                0x0800088c        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800088c                NMI_Handler
  .text.HardFault_Handler
-                0x08000824        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000824                HardFault_Handler
+                0x08000894        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000894                HardFault_Handler
  .text.MemManage_Handler
-                0x0800082c        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800082c                MemManage_Handler
+                0x0800089c        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800089c                MemManage_Handler
  .text.BusFault_Handler
-                0x08000834        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000834                BusFault_Handler
+                0x080008a4        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008a4                BusFault_Handler
  .text.UsageFault_Handler
-                0x0800083c        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800083c                UsageFault_Handler
+                0x080008ac        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008ac                UsageFault_Handler
  .text.SVC_Handler
-                0x08000844        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000844                SVC_Handler
+                0x080008b4        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008b4                SVC_Handler
  .text.DebugMon_Handler
-                0x08000850        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000850                DebugMon_Handler
+                0x080008c0        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008c0                DebugMon_Handler
  .text.PendSV_Handler
-                0x0800085c        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800085c                PendSV_Handler
+                0x080008cc        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008cc                PendSV_Handler
  .text.SysTick_Handler
-                0x08000868        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000868                SysTick_Handler
+                0x080008d8        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008d8                SysTick_Handler
  .text.USB_HP_CAN1_TX_IRQHandler
-                0x08000874       0x14 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000874                USB_HP_CAN1_TX_IRQHandler
+                0x080008e4       0x14 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008e4                USB_HP_CAN1_TX_IRQHandler
  .text.USB_LP_CAN1_RX0_IRQHandler
-                0x08000888       0x14 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000888                USB_LP_CAN1_RX0_IRQHandler
+                0x080008f8       0x14 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080008f8                USB_LP_CAN1_RX0_IRQHandler
  .text.CAN1_SCE_IRQHandler
-                0x0800089c       0x14 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800089c                CAN1_SCE_IRQHandler
+                0x0800090c       0x14 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800090c                CAN1_SCE_IRQHandler
  .text.HAL_MspInit
-                0x080008b0       0x64 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x080008b0                HAL_MspInit
+                0x08000920       0x64 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000920                HAL_MspInit
  .text.HAL_CAN_MspInit
-                0x08000914       0xc8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x08000914                HAL_CAN_MspInit
+                0x08000984       0xc8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000984                HAL_CAN_MspInit
  .text.HAL_UART_MspInit
-                0x080009dc       0x98 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x080009dc                HAL_UART_MspInit
+                0x08000a4c       0x98 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000a4c                HAL_UART_MspInit
  .text.HAL_CAN_Init
-                0x08000a74      0x1f6 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08000a74                HAL_CAN_Init
+                0x08000ae4      0x1f6 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08000ae4                HAL_CAN_Init
  .text.HAL_CAN_ConfigFilter
-                0x08000c6a      0x192 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08000c6a                HAL_CAN_ConfigFilter
+                0x08000cda      0x192 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08000cda                HAL_CAN_ConfigFilter
  .text.HAL_CAN_Start
-                0x08000dfc       0x88 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08000dfc                HAL_CAN_Start
+                0x08000e6c       0x88 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08000e6c                HAL_CAN_Start
  .text.HAL_CAN_AddTxMessage
-                0x08000e84      0x19e CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08000e84                HAL_CAN_AddTxMessage
+                0x08000ef4      0x19e CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08000ef4                HAL_CAN_AddTxMessage
  .text.HAL_CAN_GetTxMailboxesFreeLevel
-                0x08001022       0x68 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001022                HAL_CAN_GetTxMailboxesFreeLevel
+                0x08001092       0x68 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001092                HAL_CAN_GetTxMailboxesFreeLevel
  .text.HAL_CAN_GetRxMessage
-                0x0800108a      0x242 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x0800108a                HAL_CAN_GetRxMessage
+                0x080010fa      0x242 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x080010fa                HAL_CAN_GetRxMessage
  .text.HAL_CAN_ActivateNotification
-                0x080012cc       0x4a CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x080012cc                HAL_CAN_ActivateNotification
+                0x0800133c       0x4a CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x0800133c                HAL_CAN_ActivateNotification
  .text.HAL_CAN_IRQHandler
-                0x08001316      0x36e CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001316                HAL_CAN_IRQHandler
+                0x08001386      0x36e CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001386                HAL_CAN_IRQHandler
  .text.HAL_CAN_TxMailbox0CompleteCallback
-                0x08001684       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001684                HAL_CAN_TxMailbox0CompleteCallback
+                0x080016f4       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x080016f4                HAL_CAN_TxMailbox0CompleteCallback
  .text.HAL_CAN_TxMailbox1CompleteCallback
-                0x08001696       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001696                HAL_CAN_TxMailbox1CompleteCallback
+                0x08001706       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001706                HAL_CAN_TxMailbox1CompleteCallback
  .text.HAL_CAN_TxMailbox2CompleteCallback
-                0x080016a8       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x080016a8                HAL_CAN_TxMailbox2CompleteCallback
+                0x08001718       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001718                HAL_CAN_TxMailbox2CompleteCallback
  .text.HAL_CAN_TxMailbox0AbortCallback
-                0x080016ba       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x080016ba                HAL_CAN_TxMailbox0AbortCallback
+                0x0800172a       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x0800172a                HAL_CAN_TxMailbox0AbortCallback
  .text.HAL_CAN_TxMailbox1AbortCallback
-                0x080016cc       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x080016cc                HAL_CAN_TxMailbox1AbortCallback
+                0x0800173c       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x0800173c                HAL_CAN_TxMailbox1AbortCallback
  .text.HAL_CAN_TxMailbox2AbortCallback
-                0x080016de       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x080016de                HAL_CAN_TxMailbox2AbortCallback
+                0x0800174e       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x0800174e                HAL_CAN_TxMailbox2AbortCallback
  .text.HAL_CAN_RxFifo0FullCallback
-                0x080016f0       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x080016f0                HAL_CAN_RxFifo0FullCallback
+                0x08001760       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001760                HAL_CAN_RxFifo0FullCallback
  .text.HAL_CAN_RxFifo1MsgPendingCallback
-                0x08001702       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001702                HAL_CAN_RxFifo1MsgPendingCallback
+                0x08001772       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001772                HAL_CAN_RxFifo1MsgPendingCallback
  .text.HAL_CAN_RxFifo1FullCallback
-                0x08001714       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001714                HAL_CAN_RxFifo1FullCallback
+                0x08001784       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001784                HAL_CAN_RxFifo1FullCallback
  .text.HAL_CAN_SleepCallback
-                0x08001726       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001726                HAL_CAN_SleepCallback
+                0x08001796       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x08001796                HAL_CAN_SleepCallback
  .text.HAL_CAN_WakeUpFromRxMsgCallback
-                0x08001738       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x08001738                HAL_CAN_WakeUpFromRxMsgCallback
+                0x080017a8       0x12 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x080017a8                HAL_CAN_WakeUpFromRxMsgCallback
  .text.HAL_CAN_GetError
-                0x0800174a       0x16 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                0x0800174a                HAL_CAN_GetError
+                0x080017ba       0x16 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x080017ba                HAL_CAN_GetError
  .text.HAL_Init
-                0x08001760       0x2c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08001760                HAL_Init
+                0x080017d0       0x2c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080017d0                HAL_Init
  .text.HAL_InitTick
-                0x0800178c       0x60 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0800178c                HAL_InitTick
+                0x080017fc       0x60 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080017fc                HAL_InitTick
  .text.HAL_IncTick
-                0x080017ec       0x24 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x080017ec                HAL_IncTick
+                0x0800185c       0x24 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0800185c                HAL_IncTick
  .text.HAL_GetTick
-                0x08001810       0x14 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08001810                HAL_GetTick
+                0x08001880       0x14 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08001880                HAL_GetTick
  .text.HAL_Delay
-                0x08001824       0x48 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08001824                HAL_Delay
+                0x08001894       0x48 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08001894                HAL_Delay
  .text.HAL_RCC_OscConfig
-                0x0800186c      0x504 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0800186c                HAL_RCC_OscConfig
+                0x080018dc      0x504 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080018dc                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x08001d70      0x1d4 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08001d70                HAL_RCC_ClockConfig
+                0x08001de0      0x1d4 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001de0                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08001f44       0xa8 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08001f44                HAL_RCC_GetSysClockFreq
+                0x08001fb4       0xa8 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001fb4                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08001fec       0x14 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08001fec                HAL_RCC_GetHCLKFreq
+                0x0800205c       0x14 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0800205c                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x08002000       0x28 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08002000                HAL_RCC_GetPCLK1Freq
+                0x08002070       0x28 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08002070                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x08002028       0x28 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08002028                HAL_RCC_GetPCLK2Freq
+                0x08002098       0x28 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08002098                HAL_RCC_GetPCLK2Freq
  .text.RCC_Delay
-                0x08002050       0x3c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080020c0       0x3c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .text.HAL_GPIO_Init
-                0x0800208c      0x308 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0800208c                HAL_GPIO_Init
+                0x080020fc      0x308 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x080020fc                HAL_GPIO_Init
  .text.__NVIC_SetPriorityGrouping
-                0x08002394       0x48 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08002404       0x48 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_GetPriorityGrouping
-                0x080023dc       0x1c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0800244c       0x1c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_EnableIRQ
-                0x080023f8       0x38 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08002468       0x38 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08002430       0x54 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080024a0       0x54 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x08002484       0x64 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080024f4       0x64 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.SysTick_Config
-                0x080024e8       0x44 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08002558       0x44 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriorityGrouping
-                0x0800252c       0x16 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x0800252c                HAL_NVIC_SetPriorityGrouping
+                0x0800259c       0x16 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0800259c                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x08002542       0x38 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08002542                HAL_NVIC_SetPriority
+                0x080025b2       0x38 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080025b2                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x0800257a       0x1c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x0800257a                HAL_NVIC_EnableIRQ
+                0x080025ea       0x1c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080025ea                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08002596       0x18 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08002596                HAL_SYSTICK_Config
+                0x08002606       0x18 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08002606                HAL_SYSTICK_Config
  .text.HAL_UART_Init
-                0x080025ae       0xa0 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x080025ae                HAL_UART_Init
+                0x0800261e       0xa0 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0800261e                HAL_UART_Init
  .text.HAL_UART_Transmit
-                0x0800264e      0x116 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0800264e                HAL_UART_Transmit
+                0x080026be      0x116 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x080026be                HAL_UART_Transmit
  .text.UART_WaitOnFlagUntilTimeout
-                0x08002764       0xb2 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x080027d4       0xb2 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.UART_EndRxTransfer
-                0x08002816       0xc4 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- *fill*         0x080028da        0x2 
+                0x08002886       0xc4 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ *fill*         0x0800294a        0x2 
  .text.UART_SetConfig
-                0x080028dc      0x11c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0800294c      0x11c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.SystemInit
-                0x080029f8        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
-                0x080029f8                SystemInit
- .text._sbrk    0x08002a04       0x6c CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
-                0x08002a04                _sbrk
+                0x08002a68        0xc CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08002a68                SystemInit
+ .text._sbrk    0x08002a74       0x6c CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+                0x08002a74                _sbrk
  .text.Reset_Handler
-                0x08002a70       0x48 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
-                0x08002a70                Reset_Handler
+                0x08002ae0       0x48 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+                0x08002ae0                Reset_Handler
  .text.Default_Handler
-                0x08002ab8        0x2 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
-                0x08002ab8                RTC_Alarm_IRQHandler
-                0x08002ab8                EXTI2_IRQHandler
-                0x08002ab8                TIM1_CC_IRQHandler
-                0x08002ab8                PVD_IRQHandler
-                0x08002ab8                EXTI3_IRQHandler
-                0x08002ab8                EXTI0_IRQHandler
-                0x08002ab8                I2C2_EV_IRQHandler
-                0x08002ab8                ADC1_2_IRQHandler
-                0x08002ab8                SPI1_IRQHandler
-                0x08002ab8                TAMPER_IRQHandler
-                0x08002ab8                DMA1_Channel4_IRQHandler
-                0x08002ab8                USART3_IRQHandler
-                0x08002ab8                RTC_IRQHandler
-                0x08002ab8                DMA1_Channel7_IRQHandler
-                0x08002ab8                CAN1_RX1_IRQHandler
-                0x08002ab8                TIM4_IRQHandler
-                0x08002ab8                I2C1_EV_IRQHandler
-                0x08002ab8                DMA1_Channel6_IRQHandler
-                0x08002ab8                TIM3_IRQHandler
-                0x08002ab8                RCC_IRQHandler
-                0x08002ab8                TIM1_TRG_COM_IRQHandler
-                0x08002ab8                DMA1_Channel1_IRQHandler
-                0x08002ab8                Default_Handler
-                0x08002ab8                EXTI15_10_IRQHandler
-                0x08002ab8                EXTI9_5_IRQHandler
-                0x08002ab8                SPI2_IRQHandler
-                0x08002ab8                DMA1_Channel5_IRQHandler
-                0x08002ab8                EXTI4_IRQHandler
-                0x08002ab8                DMA1_Channel3_IRQHandler
-                0x08002ab8                TIM1_UP_IRQHandler
-                0x08002ab8                WWDG_IRQHandler
-                0x08002ab8                TIM2_IRQHandler
-                0x08002ab8                TIM1_BRK_IRQHandler
-                0x08002ab8                EXTI1_IRQHandler
-                0x08002ab8                USART2_IRQHandler
-                0x08002ab8                I2C2_ER_IRQHandler
-                0x08002ab8                DMA1_Channel2_IRQHandler
-                0x08002ab8                FLASH_IRQHandler
-                0x08002ab8                USART1_IRQHandler
-                0x08002ab8                I2C1_ER_IRQHandler
-                0x08002ab8                USBWakeUp_IRQHandler
+                0x08002b28        0x2 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+                0x08002b28                RTC_Alarm_IRQHandler
+                0x08002b28                EXTI2_IRQHandler
+                0x08002b28                TIM1_CC_IRQHandler
+                0x08002b28                PVD_IRQHandler
+                0x08002b28                EXTI3_IRQHandler
+                0x08002b28                EXTI0_IRQHandler
+                0x08002b28                I2C2_EV_IRQHandler
+                0x08002b28                ADC1_2_IRQHandler
+                0x08002b28                SPI1_IRQHandler
+                0x08002b28                TAMPER_IRQHandler
+                0x08002b28                DMA1_Channel4_IRQHandler
+                0x08002b28                USART3_IRQHandler
+                0x08002b28                RTC_IRQHandler
+                0x08002b28                DMA1_Channel7_IRQHandler
+                0x08002b28                CAN1_RX1_IRQHandler
+                0x08002b28                TIM4_IRQHandler
+                0x08002b28                I2C1_EV_IRQHandler
+                0x08002b28                DMA1_Channel6_IRQHandler
+                0x08002b28                TIM3_IRQHandler
+                0x08002b28                RCC_IRQHandler
+                0x08002b28                TIM1_TRG_COM_IRQHandler
+                0x08002b28                DMA1_Channel1_IRQHandler
+                0x08002b28                Default_Handler
+                0x08002b28                EXTI15_10_IRQHandler
+                0x08002b28                EXTI9_5_IRQHandler
+                0x08002b28                SPI2_IRQHandler
+                0x08002b28                DMA1_Channel5_IRQHandler
+                0x08002b28                EXTI4_IRQHandler
+                0x08002b28                DMA1_Channel3_IRQHandler
+                0x08002b28                TIM1_UP_IRQHandler
+                0x08002b28                WWDG_IRQHandler
+                0x08002b28                TIM2_IRQHandler
+                0x08002b28                TIM1_BRK_IRQHandler
+                0x08002b28                EXTI1_IRQHandler
+                0x08002b28                USART2_IRQHandler
+                0x08002b28                I2C2_ER_IRQHandler
+                0x08002b28                DMA1_Channel2_IRQHandler
+                0x08002b28                FLASH_IRQHandler
+                0x08002b28                USART1_IRQHandler
+                0x08002b28                I2C1_ER_IRQHandler
+                0x08002b28                USBWakeUp_IRQHandler
  .text._vsnprintf_r
-                0x08002aba       0x56 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
-                0x08002aba                _vsniprintf_r
-                0x08002aba                _vsnprintf_r
+                0x08002b2a       0x56 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+                0x08002b2a                _vsniprintf_r
+                0x08002b2a                _vsnprintf_r
  .text.vsnprintf
-                0x08002b10       0x1c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
-                0x08002b10                vsniprintf
-                0x08002b10                vsnprintf
- .text.__errno  0x08002b2c        0xc C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
-                0x08002b2c                __errno
+                0x08002b80       0x1c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+                0x08002b80                vsniprintf
+                0x08002b80                vsnprintf
+ .text.__errno  0x08002b9c        0xc C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x08002b9c                __errno
  .text.__ssputs_r
-                0x08002b38       0xb6 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
-                0x08002b38                __ssputs_r
- *fill*         0x08002bee        0x2 
+                0x08002ba8       0xb6 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x08002ba8                __ssputs_r
+ *fill*         0x08002c5e        0x2 
  .text._svfprintf_r
-                0x08002bf0      0x1f8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
-                0x08002bf0                _svfiprintf_r
-                0x08002bf0                _svfprintf_r
+                0x08002c60      0x1f8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x08002c60                _svfiprintf_r
+                0x08002c60                _svfprintf_r
  .text._printf_common
-                0x08002de8       0xe4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
-                0x08002de8                _printf_common
+                0x08002e58       0xe4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08002e58                _printf_common
  .text._printf_i
-                0x08002ecc      0x240 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
-                0x08002ecc                _printf_i
- .text.memmove  0x0800310c       0x34 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
-                0x0800310c                memmove
- .text.memchr   0x08003140       0x1c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
-                0x08003140                memchr
- .text.memcpy   0x0800315c       0x1c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
-                0x0800315c                memcpy
+                0x08002f3c      0x240 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08002f3c                _printf_i
+ .text.memmove  0x0800317c       0x34 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+                0x0800317c                memmove
+ .text.memchr   0x080031b0       0x1c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+                0x080031b0                memchr
+ .text.memcpy   0x080031cc       0x1c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                0x080031cc                memcpy
  .text._realloc_r
-                0x08003178       0x5c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
-                0x08003178                _realloc_r
+                0x080031e8       0x5c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+                0x080031e8                _realloc_r
  .text._malloc_usable_size_r
-                0x080031d4       0x10 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
-                0x080031d4                _malloc_usable_size_r
+                0x08003244       0x10 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+                0x08003244                _malloc_usable_size_r
  *(.glue_7)
- .glue_7        0x080031e4        0x0 linker stubs
+ .glue_7        0x08003254        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x080031e4        0x0 linker stubs
+ .glue_7t       0x08003254        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080031e4        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x08003254        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x080031e4        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
-                0x080031e4                _init
- .init          0x080031e8        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x08003254        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
+                0x08003254                _init
+ .init          0x08003258        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x080031f0        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
-                0x080031f0                _fini
- .fini          0x080031f4        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
-                0x080031fc                        . = ALIGN (0x4)
-                0x080031fc                        _etext = .
+ .fini          0x08003260        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
+                0x08003260                _fini
+ .fini          0x08003264        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+                0x0800326c                        . = ALIGN (0x4)
+                0x0800326c                        _etext = .
 
-.vfp11_veneer   0x080031fc        0x0
- .vfp11_veneer  0x080031fc        0x0 linker stubs
+.vfp11_veneer   0x0800326c        0x0
+ .vfp11_veneer  0x0800326c        0x0 linker stubs
 
-.v4_bx          0x080031fc        0x0
- .v4_bx         0x080031fc        0x0 linker stubs
+.v4_bx          0x0800326c        0x0
+ .v4_bx         0x0800326c        0x0 linker stubs
 
-.iplt           0x080031fc        0x0
- .iplt          0x080031fc        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x0800326c        0x0
+ .iplt          0x0800326c        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x080031fc       0xa8
-                0x080031fc                        . = ALIGN (0x4)
+.rodata         0x0800326c       0xd4
+                0x0800326c                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x080031fc       0x47 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .rodata        0x0800326c       0x74 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  *(.rodata*)
- *fill*         0x08003243        0x1 
  .rodata.aPLLMULFactorTable.1
-                0x08003244       0x10 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080032e0       0x10 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .rodata.aPredivFactorTable.0
-                0x08003254        0x2 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- *fill*         0x08003256        0x2 
+                0x080032f0        0x2 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x080032f2        0x2 
  .rodata.AHBPrescTable
-                0x08003258       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08003258                AHBPrescTable
+                0x080032f4       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+                0x080032f4                AHBPrescTable
  .rodata.APBPrescTable
-                0x08003268        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08003268                APBPrescTable
+                0x08003304        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08003304                APBPrescTable
  .rodata._svfprintf_r.str1.1
-                0x08003270       0x11 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x0800330c       0x11 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
  .rodata._printf_i.str1.1
-                0x08003281       0x22 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
-                0x080032a4                        . = ALIGN (0x4)
- *fill*         0x080032a3        0x1 
+                0x0800331d       0x22 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08003340                        . = ALIGN (0x4)
+ *fill*         0x0800333f        0x1 
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x080032a4        0x8
-                0x080032a4                        __exidx_start = .
+.ARM            0x08003340        0x8
+                0x08003340                        __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x080032a4        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
-                0x080032ac                        __exidx_end = .
+ .ARM.exidx     0x08003340        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+                0x08003348                        __exidx_end = .
 
-.rel.dyn        0x080032ac        0x0
- .rel.iplt      0x080032ac        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x08003348        0x0
+ .rel.iplt      0x08003348        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.preinit_array  0x080032ac        0x0
-                0x080032ac                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08003348        0x0
+                0x08003348                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x080032ac                        PROVIDE (__preinit_array_end = .)
+                0x08003348                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x080032ac        0x4
-                0x080032ac                        PROVIDE (__init_array_start = .)
+.init_array     0x08003348        0x4
+                0x08003348                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x080032ac        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x080032b0                        PROVIDE (__init_array_end = .)
+ .init_array    0x08003348        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x0800334c                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x080032b0        0x4
+.fini_array     0x0800334c        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x080032b0        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x0800334c        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x080032b4                        _sidata = LOADADDR (.data)
+                0x08003350                        _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x5c load address 0x080032b4
+.data           0x20000000       0x5c load address 0x08003350
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -2817,11 +2923,11 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
                 0x2000005c                        . = ALIGN (0x4)
                 0x2000005c                        _edata = .
 
-.igot.plt       0x2000005c        0x0 load address 0x08003310
+.igot.plt       0x2000005c        0x0 load address 0x080033ac
  .igot.plt      0x2000005c        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
                 0x2000005c                        . = ALIGN (0x4)
 
-.bss            0x2000005c      0x228 load address 0x08003310
+.bss            0x2000005c      0x224 load address 0x080033ac
                 0x2000005c                        _sbss = .
                 0x2000005c                        __bss_start__ = _sbss
  *(.bss)
@@ -2856,29 +2962,25 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
                 0x20000268                TxData
  .bss.RxData    0x20000270        0x8 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
                 0x20000270                RxData
- .bss.TxMailbox
-                0x20000278        0x4 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                0x20000278                TxMailbox
- .bss.uwTick    0x2000027c        0x4 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x2000027c                uwTick
+ .bss.uwTick    0x20000278        0x4 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000278                uwTick
  .bss.__sbrk_heap_end
-                0x20000280        0x4 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+                0x2000027c        0x4 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
  *(COMMON)
-                0x20000284                        . = ALIGN (0x4)
-                0x20000284                        _ebss = .
-                0x20000284                        __bss_end__ = _ebss
+                0x20000280                        . = ALIGN (0x4)
+                0x20000280                        _ebss = .
+                0x20000280                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000284      0x604 load address 0x08003310
-                0x20000288                        . = ALIGN (0x8)
- *fill*         0x20000284        0x4 
+                0x20000280      0x600 load address 0x080033ac
+                0x20000280                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
-                0x20000288                        PROVIDE (_end = .)
-                0x20000488                        . = (. + _Min_Heap_Size)
- *fill*         0x20000288      0x200 
-                0x20000888                        . = (. + _Min_Stack_Size)
- *fill*         0x20000488      0x400 
-                0x20000888                        . = ALIGN (0x8)
+                0x20000280                        PROVIDE (_end = .)
+                0x20000480                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000280      0x200 
+                0x20000880                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000480      0x400 
+                0x20000880                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -2919,55 +3021,58 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .ARM.attributes
                 0x0000020c       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .ARM.attributes
-                0x00000239       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x00000239       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
  .ARM.attributes
-                0x00000266       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000266       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .ARM.attributes
-                0x00000293       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x00000293       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
  .ARM.attributes
-                0x000002c0       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x000002c0       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .ARM.attributes
-                0x000002ed       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x000002ed       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
  .ARM.attributes
-                0x0000031a       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000031a       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .ARM.attributes
-                0x00000347       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000347       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .ARM.attributes
-                0x00000374       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000374       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .ARM.attributes
-                0x000003a1       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x000003a1       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .ARM.attributes
-                0x000003ce       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+                0x000003ce       0x2d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .ARM.attributes
-                0x000003fb       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+                0x000003fb       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
  .ARM.attributes
-                0x00000428       0x21 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+                0x00000428       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
  .ARM.attributes
-                0x00000449       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+                0x00000455       0x21 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
  .ARM.attributes
-                0x00000476       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x00000476       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
  .ARM.attributes
-                0x000004a3       0x17 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+                0x000004a3       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
  .ARM.attributes
-                0x000004ba       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x000004d0       0x17 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
  .ARM.attributes
-                0x000004e7       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x000004e7       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
  .ARM.attributes
-                0x00000514       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+                0x00000514       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x00000541       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+                0x00000541       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
  .ARM.attributes
-                0x0000056e       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                0x0000056e       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
  .ARM.attributes
-                0x0000059b       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+                0x0000059b       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
  .ARM.attributes
-                0x000005c8       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+                0x000005c8       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
  .ARM.attributes
-                0x000005f5       0x1d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+                0x000005f5       0x2d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x00000622       0x1d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
 
 .comment        0x00000000       0x43
  .comment       0x00000000       0x43 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
                                  0x44 (size before relaxing)
+ .comment       0x00000043       0x44 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
  .comment       0x00000043       0x44 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .comment       0x00000043       0x44 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
  .comment       0x00000043       0x44 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
@@ -2989,7 +3094,7 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .comment       0x00000043       0x44 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
  .comment       0x00000043       0x44 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
-.debug_frame    0x00000000     0x23cc
+.debug_frame    0x00000000     0x2400
  .debug_frame   0x00000000      0x144 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-findfp.o)
  .debug_frame   0x00000144       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
  .debug_frame   0x00000164       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-reent.o)
@@ -3000,173 +3105,180 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .debug_frame   0x00000300       0x30 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mlock.o)
  .debug_frame   0x00000330       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-sbrkr.o)
  .debug_frame   0x0000035c       0xb8 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
- .debug_frame   0x00000414      0x138 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
- .debug_frame   0x0000054c      0x158 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_frame   0x000006a4       0xc8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_frame   0x0000076c      0x5a0 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
- .debug_frame   0x00000d0c      0x334 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_frame   0x00001040      0x218 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_frame   0x00001258      0x14c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_frame   0x000013a4      0x428 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_frame   0x000017cc      0x944 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_frame   0x00002110       0x58 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_frame   0x00002168       0x34 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_frame   0x0000219c       0x4c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
- .debug_frame   0x000021e8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_frame   0x00002208       0x90 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
- .debug_frame   0x00002298       0x60 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
- .debug_frame   0x000022f8       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
- .debug_frame   0x00002320       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
- .debug_frame   0x00002348       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
- .debug_frame   0x00002370       0x3c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
- .debug_frame   0x000023ac       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+ .debug_frame   0x00000414       0x34 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_frame   0x00000448      0x138 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000580      0x158 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x000006d8       0xc8 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x000007a0      0x5a0 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_frame   0x00000d40      0x334 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x00001074      0x218 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x0000128c      0x14c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x000013d8      0x428 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x00001800      0x944 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x00002144       0x58 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x0000219c       0x34 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x000021d0       0x4c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+ .debug_frame   0x0000221c       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_frame   0x0000223c       0x90 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x000022cc       0x60 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000232c       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00002354       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+ .debug_frame   0x0000237c       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x000023a4       0x3c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x000023e0       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
-.debug_info     0x00000000     0xcd33
+.debug_info     0x00000000     0xd335
  .debug_info    0x00000000      0x762 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
- .debug_info    0x00000762     0x1028 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
- .debug_info    0x0000178a      0x521 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x00001cab      0xdc9 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x00002a74      0xf13 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
- .debug_info    0x00003987      0x704 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x0000408b      0x7d5 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x00004860      0x5ab CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x00004e0b      0xa87 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x00005892     0x2eed CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_info    0x0000877f      0x222 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x000089a1      0x168 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_info    0x00008b09       0x30 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
- .debug_info    0x00008b39      0x88a C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
- .debug_info    0x000093c3      0x6fb C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_info    0x00009abe       0x31 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
- .debug_info    0x00009aef     0x10c7 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
- .debug_info    0x0000abb6      0xde2 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
- .debug_info    0x0000b998      0x10f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
- .debug_info    0x0000baa7      0x110 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
- .debug_info    0x0000bbb7      0x121 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
- .debug_info    0x0000bcd8      0x8c7 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
- .debug_info    0x0000c59f      0x794 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+ .debug_info    0x00000762      0x5da CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_info    0x00000d3c     0x1050 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_info    0x00001d8c      0x521 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x000022ad      0xdc9 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00003076      0xf13 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_info    0x00003f89      0x704 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x0000468d      0x7d5 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00004e62      0x5ab CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000540d      0xa87 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00005e94     0x2eed CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x00008d81      0x222 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00008fa3      0x168 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x0000910b       0x30 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+ .debug_info    0x0000913b      0x88a C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+ .debug_info    0x000099c5      0x6fb C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_info    0x0000a0c0       0x31 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+ .debug_info    0x0000a0f1     0x10c7 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_info    0x0000b1b8      0xde2 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_info    0x0000bf9a      0x10f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+ .debug_info    0x0000c0a9      0x110 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+ .debug_info    0x0000c1b9      0x121 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_info    0x0000c2da      0x8c7 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_info    0x0000cba1      0x794 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
-.debug_abbrev   0x00000000     0x2826
+.debug_abbrev   0x00000000     0x29a4
  .debug_abbrev  0x00000000      0x1bf CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
- .debug_abbrev  0x000001bf      0x30f CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000004ce      0x17c CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x0000064a      0x20e CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x00000858      0x21c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
- .debug_abbrev  0x00000a74      0x201 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x00000c75      0x2b3 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_abbrev  0x00000f28      0x1ca CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x000010f2      0x2f8 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x000013ea      0x2f8 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_abbrev  0x000016e2      0x13f CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x00001821       0xbc CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_abbrev  0x000018dd       0x24 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
- .debug_abbrev  0x00001901      0x228 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
- .debug_abbrev  0x00001b29      0x15e C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_abbrev  0x00001c87       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
- .debug_abbrev  0x00001caf      0x31e C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
- .debug_abbrev  0x00001fcd      0x28e C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
- .debug_abbrev  0x0000225b       0xac C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
- .debug_abbrev  0x00002307       0xb1 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
- .debug_abbrev  0x000023b8       0xc1 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
- .debug_abbrev  0x00002479      0x217 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
- .debug_abbrev  0x00002690      0x196 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+ .debug_abbrev  0x000001bf      0x168 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_abbrev  0x00000327      0x325 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000064c      0x17c CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x000007c8      0x20e CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x000009d6      0x21c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_abbrev  0x00000bf2      0x201 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000df3      0x2b3 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x000010a6      0x1ca CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00001270      0x2f8 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00001568      0x2f8 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x00001860      0x13f CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x0000199f       0xbc CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00001a5b       0x24 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+ .debug_abbrev  0x00001a7f      0x228 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+ .debug_abbrev  0x00001ca7      0x15e C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_abbrev  0x00001e05       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+ .debug_abbrev  0x00001e2d      0x31e C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_abbrev  0x0000214b      0x28e C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_abbrev  0x000023d9       0xac C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+ .debug_abbrev  0x00002485       0xb1 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+ .debug_abbrev  0x00002536       0xc1 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_abbrev  0x000025f7      0x217 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_abbrev  0x0000280e      0x196 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
-.debug_aranges  0x00000000      0x928
+.debug_aranges  0x00000000      0x948
  .debug_aranges
                 0x00000000       0x38 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .debug_aranges
-                0x00000038       0x60 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x00000038       0x20 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
  .debug_aranges
-                0x00000098       0x78 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000058       0x60 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x00000110       0x40 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x000000b8       0x78 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_aranges
-                0x00000150      0x138 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x00000130       0x40 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_aranges
-                0x00000288       0xe0 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000170      0x138 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
  .debug_aranges
-                0x00000368       0x90 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000002a8       0xe0 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_aranges
-                0x000003f8       0x58 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000388       0x90 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_aranges
-                0x00000450      0x100 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000418       0x58 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .debug_aranges
-                0x00000550      0x208 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000470      0x100 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_aranges
-                0x00000758       0x28 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000570      0x208 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .debug_aranges
-                0x00000780       0x20 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+                0x00000778       0x28 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_aranges
-                0x000007a0       0x28 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+                0x000007a0       0x20 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
  .debug_aranges
-                0x000007c8       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+                0x000007c0       0x28 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
  .debug_aranges
-                0x000007f0       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x000007e8       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
  .debug_aranges
-                0x00000810       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+                0x00000810       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
  .debug_aranges
-                0x00000830       0x30 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x00000830       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
  .debug_aranges
-                0x00000860       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00000850       0x30 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
  .debug_aranges
-                0x00000888       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+                0x00000880       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
  .debug_aranges
-                0x000008a8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+                0x000008a8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
  .debug_aranges
-                0x000008c8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                0x000008c8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
  .debug_aranges
-                0x000008e8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+                0x000008e8       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
  .debug_aranges
-                0x00000908       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+                0x00000908       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_aranges
+                0x00000928       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
 .debug_rnglists
-                0x00000000      0x725
+                0x00000000      0x738
  .debug_rnglists
                 0x00000000       0x25 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .debug_rnglists
-                0x00000025       0x46 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                0x00000025       0x13 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
  .debug_rnglists
-                0x0000006b       0x55 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000038       0x46 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
  .debug_rnglists
-                0x000000c0       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0000007e       0x55 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_rnglists
-                0x000000ed       0xed CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                0x000000d3       0x2d CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_rnglists
-                0x000001da       0xa3 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000100       0xed CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
  .debug_rnglists
-                0x0000027d       0x6c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000001ed       0xa3 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_rnglists
-                0x000002e9       0x3f CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000290       0x6c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_rnglists
-                0x00000328       0xbb CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x000002fc       0x3f CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .debug_rnglists
-                0x000003e3      0x1bc CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0000033b       0xbb CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_rnglists
-                0x0000059f       0x1a CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+                0x000003f6      0x1bc CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .debug_rnglists
-                0x000005b9       0x13 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+                0x000005b2       0x1a CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_rnglists
-                0x000005cc       0x19 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+                0x000005cc       0x13 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
  .debug_rnglists
-                0x000005e5       0x19 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+                0x000005df       0x19 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
  .debug_rnglists
-                0x000005fe       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x000005f8       0x19 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
  .debug_rnglists
-                0x00000611       0x48 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x00000611       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
  .debug_rnglists
-                0x00000659       0x6d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00000624       0x48 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
  .debug_rnglists
-                0x000006c6       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+                0x0000066c       0x6d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
  .debug_rnglists
-                0x000006d9       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+                0x000006d9       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
  .debug_rnglists
-                0x000006ec       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                0x000006ec       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
  .debug_rnglists
-                0x000006ff       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+                0x000006ff       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
  .debug_rnglists
-                0x00000712       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+                0x00000712       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_rnglists
+                0x00000725       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
-.debug_macro    0x00000000    0x17507
+.debug_macro    0x00000000    0x17782
  .debug_macro   0x00000000      0x2bc CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .debug_macro   0x000002bc      0xaa8 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .debug_macro   0x00000d64      0x21b CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
@@ -3226,94 +3338,99 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .debug_macro   0x00015f0f       0x16 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .debug_macro   0x00015f25       0x20 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
  .debug_macro   0x00015f45       0x4c CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
- .debug_macro   0x00015f91      0x1be CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
- .debug_macro   0x0001614f      0x1ac CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_macro   0x000162fb      0x1a2 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_macro   0x0001649d      0x1a7 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
- .debug_macro   0x00016644      0x1bc CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_macro   0x00016800      0x1aa CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_macro   0x000169aa      0x203 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_macro   0x00016bad      0x198 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_macro   0x00016d45      0x199 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_macro   0x00016ede      0x198 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_macro   0x00017076       0xec CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x00017162       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x00017172       0x6e CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x000171e0       0x94 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x00017274       0x57 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x000172cb      0x23c CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x00015f91      0x1a2 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_macro   0x00016133      0x287 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x000163ba       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_macro   0x000163ca      0x1ac CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_macro   0x00016576      0x1a2 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_macro   0x00016718      0x1a7 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_macro   0x000168bf      0x1bc CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_macro   0x00016a7b      0x1aa CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_macro   0x00016c25      0x203 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_macro   0x00016e28      0x198 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_macro   0x00016fc0      0x199 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_macro   0x00017159      0x198 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_macro   0x000172f1       0xec CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x000173dd       0x10 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x000173ed       0x6e CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0001745b       0x94 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x000174ef       0x57 CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x00017546      0x23c CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
 
-.debug_line     0x00000000     0xac91
+.debug_line     0x00000000     0xb3c0
  .debug_line    0x00000000      0x7b0 CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
- .debug_line    0x000007b0      0x8c0 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
- .debug_line    0x00001070      0x77f CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x000017ef      0x724 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00001f13     0x1102 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
- .debug_line    0x00003015      0x920 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x00003935      0xd29 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x0000465e      0x9b9 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00005017      0xb0c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x00005b23     0x27ff CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_line    0x00008322      0x6f3 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x00008a15      0x33e CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
- .debug_line    0x00008d53       0x78 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
- .debug_line    0x00008dcb      0x29a C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
- .debug_line    0x00009065      0x185 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_line    0x000091ea       0x4f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
- .debug_line    0x00009239      0x8ac C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
- .debug_line    0x00009ae5      0x771 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
- .debug_line    0x0000a256      0x1bb C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
- .debug_line    0x0000a411      0x1fe C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
- .debug_line    0x0000a60f      0x207 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
- .debug_line    0x0000a816      0x276 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
- .debug_line    0x0000aa8c      0x205 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+ .debug_line    0x000007b0      0x69a CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+ .debug_line    0x00000e4a      0x955 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+ .debug_line    0x0000179f      0x77f CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00001f1e      0x724 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00002642     0x1102 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_line    0x00003744      0x920 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00004064      0xd29 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00004d8d      0x9b9 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00005746      0xb0c CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00006252     0x27ff CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x00008a51      0x6f3 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00009144      0x33e CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00009482       0x78 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+ .debug_line    0x000094fa      0x29a C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+ .debug_line    0x00009794      0x185 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_line    0x00009919       0x4f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+ .debug_line    0x00009968      0x8ac C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_line    0x0000a214      0x771 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_line    0x0000a985      0x1bb C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+ .debug_line    0x0000ab40      0x1fe C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+ .debug_line    0x0000ad3e      0x207 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_line    0x0000af45      0x276 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_line    0x0000b1bb      0x205 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
 
-.debug_str      0x00000000    0x851a9
- .debug_str     0x00000000    0x81f6b CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
-                              0x8236e (size before relaxing)
- .debug_str     0x00081f6b      0x6b2 CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
-                              0x7f641 (size before relaxing)
- .debug_str     0x0008261d      0x111 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
+.debug_str      0x00000000    0x8520d
+ .debug_str     0x00000000    0x81f6a CMakeFiles/CAN_11_3_25.dir/Core/Src/UART_LED_Controller.c.obj
+                              0x8236d (size before relaxing)
+ .debug_str     0x00081f6a      0x322 CMakeFiles/CAN_11_3_25.dir/Core/Src/CANbus.c.obj
+                              0x7ee24 (size before relaxing)
+ .debug_str     0x0008228c      0x3fc CMakeFiles/CAN_11_3_25.dir/Core/Src/main.c.obj
+                              0x82183 (size before relaxing)
+ .debug_str     0x00082688      0x111 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_it.c.obj
                               0x7ee39 (size before relaxing)
- .debug_str     0x0008272e      0x3c2 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_str     0x00082799      0x3c2 CMakeFiles/CAN_11_3_25.dir/Core/Src/stm32f1xx_hal_msp.c.obj
                               0x7f549 (size before relaxing)
- .debug_str     0x00082af0      0x3ca CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_str     0x00082b5b      0x3ca CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
                               0x7f35c (size before relaxing)
- .debug_str     0x00082eba      0x39f CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_str     0x00082f25      0x39f CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                               0x7f287 (size before relaxing)
- .debug_str     0x00083259      0x266 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_str     0x000832c4      0x266 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
                               0x7ef83 (size before relaxing)
- .debug_str     0x000834bf      0x343 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x0008352a      0x343 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
                               0x7eeda (size before relaxing)
- .debug_str     0x00083802      0x28d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_str     0x0008386d      0x28d CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
                               0x7f1d3 (size before relaxing)
- .debug_str     0x00083a8f      0x671 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_str     0x00083afa      0x671 CMakeFiles/CAN_11_3_25.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
                               0x7f5f4 (size before relaxing)
- .debug_str     0x00084100       0x73 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_str     0x0008416b       0x73 CMakeFiles/CAN_11_3_25.dir/Core/Src/system_stm32f1xx.c.obj
                               0x7eb54 (size before relaxing)
- .debug_str     0x00084173      0x4fd CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x000841de      0x4fd CMakeFiles/CAN_11_3_25.dir/Core/Src/sysmem.c.obj
                                0x5a7d (size before relaxing)
- .debug_str     0x00084670       0x56 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
+ .debug_str     0x000846db       0x56 CMakeFiles/CAN_11_3_25.dir/startup_stm32f103xb.s.obj
                                  0x86 (size before relaxing)
- .debug_str     0x000846c6      0x44f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
+ .debug_str     0x00084731      0x44f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-vsnprintf.o)
                                 0x57a (size before relaxing)
- .debug_str     0x00084b15       0x58 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_str     0x00084b80       0x58 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
                                 0x523 (size before relaxing)
- .debug_str     0x00084b6d       0x69 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
+ .debug_str     0x00084bd8       0x69 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-strlen.o)
                                  0xef (size before relaxing)
- .debug_str     0x00084bd6      0x2ba C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_str     0x00084c41      0x2ba C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
                                 0x872 (size before relaxing)
- .debug_str     0x00084e90       0xb3 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_str     0x00084efb       0xb3 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-vfprintf_i.o)
                                 0x808 (size before relaxing)
- .debug_str     0x00084f43       0x74 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
+ .debug_str     0x00084fae       0x6d C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memmove.o)
                                 0x224 (size before relaxing)
- .debug_str     0x00084fb7       0x64 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
+ .debug_str     0x0008501b       0x64 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memchr-stub.o)
                                 0x223 (size before relaxing)
- .debug_str     0x0008501b       0x78 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_str     0x0008507f       0x78 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
                                 0x227 (size before relaxing)
- .debug_str     0x00085093       0xad C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
+ .debug_str     0x000850f7       0xad C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-reallocr.o)
                                 0x59f (size before relaxing)
- .debug_str     0x00085140       0x69 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
+ .debug_str     0x000851a4       0x69 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-msizer.o)
                                 0x572 (size before relaxing)
 
 .debug_line_str
